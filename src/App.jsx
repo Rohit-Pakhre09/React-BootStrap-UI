@@ -1,6 +1,13 @@
+import Header from "./components/Header"
+import MainPage from "./components/MainPage"
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 const App = () => {
   return (
-    <div>App</div>
+    <section className="vh-100">
+      <Header />
+      <MainPage />
+    </section>
   )
 }
 
