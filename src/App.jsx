@@ -7,7 +7,7 @@ const App = () => {
     <section className="min-vh-100">
       <div className="container h-100">
         <div className="row h-100 d-flex justify-content-center align-items-center">
-          <div className="col-12 col-md-5 col-md-7 col-lg-7 d-flex">
+          <div className="col-12 col-md-5 col-lg-7 d-flex">
             <Information />
           </div>
 
