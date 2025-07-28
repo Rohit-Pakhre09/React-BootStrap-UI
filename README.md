@@ -37,9 +37,9 @@ This project includes **two modular components** â€” `Information` and `Image` â
 
 ## Preview
 
-<img src="./src/assets/Preview.png">
+![Preview](./src/assets/Preview.png)
 
----
+**Explanation Video:** [Watch Here](https://drive.google.com/file/d/1F1PffWVFRq8rSyUzCYVvGEo5lpTnzifo/view?usp=drive_link)
 
 ## Tech Stack
 
